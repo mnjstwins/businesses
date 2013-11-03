@@ -1,0 +1,13 @@
+{
+    "apis": [
+        {
+            "name": "Businesses",
+            "description": "This is a simple API specification for a listing of businesses.",
+            "url": "https://github.com/ongithub/businesses/blob/gh-pages/businesses",
+            "type": "swagger",
+            "image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-business-icon.png",
+            "keywords": "business, directory"
+        }
+    ],
+    "updated": "11/03/2013"
+}

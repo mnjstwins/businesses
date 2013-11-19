@@ -1,1 +1,0 @@
-<?phprequire 'Slim/Slim.php';\Slim\Slim::registerAutoloader();$app = new \Slim\Slim();$route = '/';$app->get($route, function () {	});	include "methods/ongithub/businesses.php";$app->run();?>
